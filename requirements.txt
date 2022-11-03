@@ -3,7 +3,6 @@ numpy
 flask
 qrcode
 pillow
-pygit2
 pygame
 PyPDF2
 django
